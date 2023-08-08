@@ -1,0 +1,36 @@
+.container{
+ 
+    text-align: center;
+    margin-top:250px;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+  }
+  body{
+    background-image:url("TEXT1.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .msg{
+    text-align: center;
+    font-size: larger;
+    padding: 10PX;
+  }
+  .btn{
+    font-size:medium;
+    text-align: center;
+   
+  }
+  .op{
+    text-align: center;
+    font-size: larger;
+  }
+  #submit{
+    padding: 10px;
+}
+
+input[type=text]:hover{
+    background-color:rgb(144, 166, 225);
+}
+#click:hover {
+  background-color: rgb(142, 165, 234);
+}
